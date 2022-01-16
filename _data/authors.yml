@@ -31,7 +31,7 @@ author1:
     # facebook:        <username>
     # google:          <number>
     # vk:              <username>
-    # youtube:         <string_string_string>
+    youtube:         https://www.youtube.com/channel/UCp58Y9Lzwv8IQkbALyLQ71g
     # vimeo:           <username>
     # vine:            <username>
     # spotify:         <user>/<number>
@@ -55,7 +55,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        pablo-arias-519616127
+    linkedin:        quepayal
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
