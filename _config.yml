@@ -38,13 +38,13 @@ tagline:               >
 keywords:              []
 
 # Used by jekyll-seo-tag.
-#logo:                  /assets/icons/icon.png
+#logo:                  /assets/icons/favicon.ico
 
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
   name:                Payal
-  email:               quepayal@gmail.com
+  # email:               quepayal@gmail.com
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
