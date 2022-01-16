@@ -2,7 +2,7 @@
 layout: post
 title: Murder on the Orient Express by Agatha Christie — Review
 comments: true
-tags: [poetry]
+tags: [bookreview]
 ---
 
 # Murder on the Orient Express by Agatha Christie — Review
