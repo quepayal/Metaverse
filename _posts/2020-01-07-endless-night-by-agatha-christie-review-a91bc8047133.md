@@ -8,10 +8,15 @@ tags: [bookreview]
 # Endless Night by Agatha Christie — Review
 
 Every Night and every Morn
+
 Some to Misery are Born.
+
 Every Morn and every Night
+
 Some are Born to Sweet Delight.
+
 Some are Born to Sweet Delight,
+
 Some are Born to Endless Night.
 
 — William Blake
