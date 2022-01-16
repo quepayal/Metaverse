@@ -7,7 +7,7 @@ tags: [bookreview]
 
 # Inferno by Dan Brown — Review
 
-```The darkest places in hell are reserved for those who maintain their neutrality in times of moral crisis. — Dan Brown, Inferno```
+The darkest places in hell are reserved for those who maintain their neutrality in times of moral crisis. — Dan Brown, Inferno
 
 Dante’s Inferno tells the journey of Dante through Hell, maneuver by the ancient Roman poet Virgil. The poem portrays Hell as nine concentric circles of torment located within the Earth. It’s the “realm … of those who have rejected spiritual values by yielding to bestial appetites or violence, or by perverting their human intellect to fraud or malice against their fellowmen”.
 
