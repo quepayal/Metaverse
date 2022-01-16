@@ -7,7 +7,7 @@ tags: [poetry]
 
 # Murder on the Orient Express by Agatha Christie — Review
 
-```The impossible could not have happened; therefore, the impossible must be possible despite appearances. — Agatha Christie, Murder on the Orient Express```
+The impossible could not have happened; therefore, the impossible must be possible despite appearances. — Agatha Christie, Murder on the Orient Express
 
 REVENGE is a powerful word. It’s like a shadow consuming you in its own darkness. But then, it’s not right to forgive every time. That regret, anger, anxiety makes every moment of your life miserable. How would you live when you’re already dead inside… All you want is JUSTICE, but if it’s not done, some might cease to live, but others might give the fracture of their souls away to the poison of the deep grief until one crime becomes another.
 
