@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Surely You’re Joking, Mr. Feynman! : Adventures of a Curious Character by Richard P. Feynman — Review
+title: Surely You’re Joking, Mr. Feynman! - Adventures of a Curious Character by Richard P. Feynman — Review
 comments: true
 tags: [bookreview]
 ---
