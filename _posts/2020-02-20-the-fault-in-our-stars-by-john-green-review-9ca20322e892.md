@@ -7,7 +7,7 @@ tags: [bookreview]
 
 # The Fault in Our Stars by John Green — Review
 
-``` “The fault, dear Brutus, is not in our stars / But in ourselves, that we are underlings.” — Act 1, Scene 2 of Shakespeare’s play Julius Caesar. ```
+“The fault, dear Brutus, is not in our stars / But in ourselves, that we are underlings.” — Act 1, Scene 2 of Shakespeare’s play Julius Caesar.
 
 These quotes suggest that nothing but ourselves is to blame for the world’s evil nature.
 
