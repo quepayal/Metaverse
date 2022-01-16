@@ -4,7 +4,7 @@
 author1:
   # Replace <...> with your own (remove the < >)
   name:              Payal
-  email:             quepayal@gmail.com
+  # email:             quepayal@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -26,7 +26,7 @@ author1:
     # twitter:         <username>
     github:          quepayal
     # download:        https://github.com/qwtel/hydejack-starter-kit/archive/master.zip
-    email:           mailto:<quepayal@gmail.com>
+    # email:           mailto:<quepayal@gmail.com>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
