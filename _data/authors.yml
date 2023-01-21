@@ -79,6 +79,6 @@ author2:
   # Every author can have his/her own accent color and image.
   # This will change the appearance of all pages of this author.
   accent_color:      '#268bd2'
-  accent_image:       https://images.unsplash.com/photo-1672849111998-249d2e8371f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80
+  accent_image:       
     background:      '#202020'
     overlay:         false
